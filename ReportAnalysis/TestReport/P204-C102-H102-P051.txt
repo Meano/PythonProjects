@@ -1,0 +1,353 @@
+SDRAM Test Demo V1.0
+PLL Clock: 204 MHz
+CPU Clock: 102 MHz
+HCLK Clock: 102 MHz
+PCLK Clock: 51 MHz
+===========SDRAM Test Start=============
+Write Read Function Testing...
+Write Read Test Erro Count: 0
+Big-Endian Test Result: 34127856
+Little-Endian Test Result: 78563412
+=== Performance Tests CAS=3 Fill Normal Address===
+Byte Write Testing...
+Byte Write Time: 699 ms
+Byte Write Speed: 22.890 MB/s
+Byte Read Testing...
+Byte Read Time: 2899 ms
+Byte Read Speed: 5.519 MB/s
+=======================================
+Byte Nonseq. Write Testing...
+Byte Nonseq. Write Time: 877 ms
+Byte Nonseq. Write Speed: 18.244 MB/s
+Byte Nonseq. Read Testing...
+Byte Nonseq. Read Time: 2917 ms
+Byte Nonseq. Read Speed: 5.485 MB/s
+=======================================
+HalfWord Write Testing...
+HalfWord Write Time: 350 ms
+HalfWord Write Speed: 45.714 MB/s
+HalfWord Read Testing...
+HalfWord Read Time: 1449 ms
+HalfWord Read Speed: 11.042 MB/s
+=======================================
+HalfWord Unaligned Write Testing...
+HalfWord Unaligned Write Time: 763 ms
+HalfWord Unaligned Write Speed: 20.970 MB/s
+HalfWord Unaligned Read Testing...
+HalfWord Unaligned Read Time: 2942 ms
+HalfWord Unaligned Read Speed: 5.438 MB/s
+=======================================
+Word Write Testing...
+Word Write Time: 215 ms
+Word Write Speed: 74.419 MB/s
+Word Read Testing...
+Word Read Time: 733 ms
+Word Read Speed: 21.828 MB/s
+=======================================
+Word Internal Write Testing...
+Word Internal Write Time: 679 ms
+Word Internal Write Speed: 11.782 MB/s
+Word Internal Read Testing...
+Word Internal Read Time: 679 ms
+Word Internal Read Speed: 11.782 MB/s
+=======================================
+Byte DMA Burst 1 Write Testing...
+Byte DMA Burst 1 Write Time: 591 ms
+Byte DMA Burst 1 Write Speed: 27.073 MB/s
+Byte DMA Burst 1 Read Testing...
+Byte DMA Burst 1 Read Time: 1248 ms
+Byte DMA Burst 1 Read Speed: 12.821 MB/s
+=======================================
+Byte DMA Burst 4 Write Testing...
+Byte DMA Burst 4 Write Time: 591 ms
+Byte DMA Burst 4 Write Speed: 27.073 MB/s
+Byte DMA Burst 4 Read Testing...
+Byte DMA Burst 4 Read Time: 1249 ms
+Byte DMA Burst 4 Read Speed: 12.810 MB/s
+=======================================
+Byte DMA Burst 8 Write Testing...
+Byte DMA Burst 8 Write Time: 590 ms
+Byte DMA Burst 8 Write Speed: 27.119 MB/s
+Byte DMA Burst 8 Read Testing...
+Byte DMA Burst 8 Read Time: 1249 ms
+Byte DMA Burst 8 Read Speed: 12.810 MB/s
+=======================================
+HalfWord DMA Burst 1 Write Testing...
+HalfWord DMA Burst 1 Write Time: 332 ms
+HalfWord DMA Burst 1 Write Speed: 48.193 MB/s
+HalfWord DMA Burst 1 Read Testing...
+HalfWord DMA Burst 1 Read Time: 628 ms
+HalfWord DMA Burst 1 Read Speed: 25.478 MB/s
+=======================================
+HalfWord DMA Burst 4 Write Testing...
+HalfWord DMA Burst 4 Write Time: 331 ms
+HalfWord DMA Burst 4 Write Speed: 48.338 MB/s
+HalfWord DMA Burst 4 Read Testing...
+HalfWord DMA Burst 4 Read Time: 629 ms
+HalfWord DMA Burst 4 Read Speed: 25.437 MB/s
+=======================================
+HalfWord DMA Burst 8 Write Testing...
+HalfWord DMA Burst 8 Write Time: 331 ms
+HalfWord DMA Burst 8 Write Speed: 48.338 MB/s
+HalfWord DMA Burst 8 Read Testing...
+HalfWord DMA Burst 8 Read Time: 628 ms
+HalfWord DMA Burst 8 Read Speed: 25.478 MB/s
+=======================================
+Word DMA Burst 1 Write Testing...
+Word DMA Burst 1 Write Time: 274 ms
+Word DMA Burst 1 Write Speed: 58.394 MB/s
+Word DMA Burst 1 Read Testing...
+Word DMA Burst 1 Read Time: 569 ms
+Word DMA Burst 1 Read Speed: 28.120 MB/s
+=======================================
+Word DMA Burst 4 Write Testing...
+Word DMA Burst 4 Write Time: 274 ms
+Word DMA Burst 4 Write Speed: 58.394 MB/s
+Word DMA Burst 4 Read Testing...
+Word DMA Burst 4 Read Time: 569 ms
+Word DMA Burst 4 Read Speed: 28.120 MB/s
+=======================================
+Word DMA Burst 8 Write Testing...
+Word DMA Burst 8 Write Time: 274 ms
+Word DMA Burst 8 Write Speed: 58.394 MB/s
+Word DMA Burst 8 Read Testing...
+Word DMA Burst 8 Read Time: 569 ms
+Word DMA Burst 8 Read Speed: 28.120 MB/s
+Word DMA Burst 8 Write Testing...
+=======================================
+Word DMA Burst 8 Internal Write Testing...
+Word DMA Burst 8 Internal Write Time: 362 ms
+Word DMA Burst 8 Internal Write Speed: 22.099 MB/s
+Word DMA Burst 8 Internal Read Testing...
+Word DMA Burst 8 Internal Read Time: 362 ms
+Word DMA Burst 8 Internal Read Speed: 22.099 MB/s
+======== Performance Test End =========
+=== Performance Tests CAS=2 Fill Invert Address===
+Byte Write Testing...
+Byte Write Time: 700 ms
+Byte Write Speed: 22.857 MB/s
+Byte Read Testing...
+Byte Read Time: 2719 ms
+Byte Read Speed: 5.885 MB/s
+=======================================
+Byte Nonseq. Write Testing...
+Byte Nonseq. Write Time: 877 ms
+Byte Nonseq. Write Speed: 18.244 MB/s
+Byte Nonseq. Read Testing...
+Byte Nonseq. Read Time: 2746 ms
+Byte Nonseq. Read Speed: 5.827 MB/s
+=======================================
+HalfWord Write Testing...
+HalfWord Write Time: 350 ms
+HalfWord Write Speed: 45.714 MB/s
+HalfWord Read Testing...
+HalfWord Read Time: 1359 ms
+HalfWord Read Speed: 11.773 MB/s
+=======================================
+HalfWord Unaligned Write Testing...
+HalfWord Unaligned Write Time: 763 ms
+HalfWord Unaligned Write Speed: 20.970 MB/s
+HalfWord Unaligned Read Testing...
+HalfWord Unaligned Read Time: 2779 ms
+HalfWord Unaligned Read Speed: 5.757 MB/s
+=======================================
+Word Write Testing...
+Word Write Time: 215 ms
+Word Write Speed: 74.419 MB/s
+Word Read Testing...
+Word Read Time: 686 ms
+Word Read Speed: 23.324 MB/s
+=======================================
+Word Internal Write Testing...
+Word Internal Write Time: 658 ms
+Word Internal Write Speed: 12.158 MB/s
+Word Internal Read Testing...
+Word Internal Read Time: 658 ms
+Word Internal Read Speed: 12.158 MB/s
+=======================================
+Byte DMA Burst 1 Write Testing...
+Byte DMA Burst 1 Write Time: 591 ms
+Byte DMA Burst 1 Write Speed: 27.073 MB/s
+Byte DMA Burst 1 Read Testing...
+Byte DMA Burst 1 Read Time: 1199 ms
+Byte DMA Burst 1 Read Speed: 13.344 MB/s
+=======================================
+Byte DMA Burst 4 Write Testing...
+Byte DMA Burst 4 Write Time: 591 ms
+Byte DMA Burst 4 Write Speed: 27.073 MB/s
+Byte DMA Burst 4 Read Testing...
+Byte DMA Burst 4 Read Time: 1200 ms
+Byte DMA Burst 4 Read Speed: 13.333 MB/s
+=======================================
+Byte DMA Burst 8 Write Testing...
+Byte DMA Burst 8 Write Time: 591 ms
+Byte DMA Burst 8 Write Speed: 27.073 MB/s
+Byte DMA Burst 8 Read Testing...
+Byte DMA Burst 8 Read Time: 1199 ms
+Byte DMA Burst 8 Read Speed: 13.344 MB/s
+=======================================
+HalfWord DMA Burst 1 Write Testing...
+HalfWord DMA Burst 1 Write Time: 332 ms
+HalfWord DMA Burst 1 Write Speed: 48.193 MB/s
+HalfWord DMA Burst 1 Read Testing...
+HalfWord DMA Burst 1 Read Time: 620 ms
+HalfWord DMA Burst 1 Read Speed: 25.806 MB/s
+=======================================
+HalfWord DMA Burst 4 Write Testing...
+HalfWord DMA Burst 4 Write Time: 332 ms
+HalfWord DMA Burst 4 Write Speed: 48.193 MB/s
+HalfWord DMA Burst 4 Read Testing...
+HalfWord DMA Burst 4 Read Time: 620 ms
+HalfWord DMA Burst 4 Read Speed: 25.806 MB/s
+=======================================
+HalfWord DMA Burst 8 Write Testing...
+HalfWord DMA Burst 8 Write Time: 331 ms
+HalfWord DMA Burst 8 Write Speed: 48.338 MB/s
+HalfWord DMA Burst 8 Read Testing...
+HalfWord DMA Burst 8 Read Time: 620 ms
+HalfWord DMA Burst 8 Read Speed: 25.806 MB/s
+=======================================
+Word DMA Burst 1 Write Testing...
+Word DMA Burst 1 Write Time: 273 ms
+Word DMA Burst 1 Write Speed: 58.608 MB/s
+Word DMA Burst 1 Read Testing...
+Word DMA Burst 1 Read Time: 538 ms
+Word DMA Burst 1 Read Speed: 29.740 MB/s
+=======================================
+Word DMA Burst 4 Write Testing...
+Word DMA Burst 4 Write Time: 273 ms
+Word DMA Burst 4 Write Speed: 58.608 MB/s
+Word DMA Burst 4 Read Testing...
+Word DMA Burst 4 Read Time: 538 ms
+Word DMA Burst 4 Read Speed: 29.740 MB/s
+=======================================
+Word DMA Burst 8 Write Testing...
+Word DMA Burst 8 Write Time: 273 ms
+Word DMA Burst 8 Write Speed: 58.608 MB/s
+Word DMA Burst 8 Read Testing...
+Word DMA Burst 8 Read Time: 538 ms
+Word DMA Burst 8 Read Speed: 29.740 MB/s
+Word DMA Burst 8 Write Testing...
+=======================================
+Word DMA Burst 8 Internal Write Testing...
+Word DMA Burst 8 Internal Write Time: 350 ms
+Word DMA Burst 8 Internal Write Speed: 22.857 MB/s
+Word DMA Burst 8 Internal Read Testing...
+Word DMA Burst 8 Internal Read Time: 350 ms
+Word DMA Burst 8 Internal Read Speed: 22.857 MB/s
+======== Performance Test End =========
+=== Performance Tests CAS=2 Buffer=1 Fill Normal Address===
+Byte Write Testing...
+Byte Write Time: 700 ms
+Byte Write Speed: 22.857 MB/s
+Byte Read Testing...
+Byte Read Time: 2898 ms
+Byte Read Speed: 5.521 MB/s
+=======================================
+Byte Nonseq. Write Testing...
+Byte Nonseq. Write Time: 878 ms
+Byte Nonseq. Write Speed: 18.223 MB/s
+Byte Nonseq. Read Testing...
+Byte Nonseq. Read Time: 2917 ms
+Byte Nonseq. Read Speed: 5.485 MB/s
+=======================================
+HalfWord Write Testing...
+HalfWord Write Time: 350 ms
+HalfWord Write Speed: 45.714 MB/s
+HalfWord Read Testing...
+HalfWord Read Time: 1449 ms
+HalfWord Read Speed: 11.042 MB/s
+=======================================
+HalfWord Unaligned Write Testing...
+HalfWord Unaligned Write Time: 762 ms
+HalfWord Unaligned Write Speed: 20.997 MB/s
+HalfWord Unaligned Read Testing...
+HalfWord Unaligned Read Time: 2943 ms
+HalfWord Unaligned Read Speed: 5.437 MB/s
+=======================================
+Word Write Testing...
+Word Write Time: 215 ms
+Word Write Speed: 74.419 MB/s
+Word Read Testing...
+Word Read Time: 732 ms
+Word Read Speed: 21.858 MB/s
+=======================================
+Word Internal Write Testing...
+Word Internal Write Time: 679 ms
+Word Internal Write Speed: 11.782 MB/s
+Word Internal Read Testing...
+Word Internal Read Time: 680 ms
+Word Internal Read Speed: 11.765 MB/s
+=======================================
+Byte DMA Burst 1 Write Testing...
+Byte DMA Burst 1 Write Time: 590 ms
+Byte DMA Burst 1 Write Speed: 27.119 MB/s
+Byte DMA Burst 1 Read Testing...
+Byte DMA Burst 1 Read Time: 1249 ms
+Byte DMA Burst 1 Read Speed: 12.810 MB/s
+=======================================
+Byte DMA Burst 4 Write Testing...
+Byte DMA Burst 4 Write Time: 591 ms
+Byte DMA Burst 4 Write Speed: 27.073 MB/s
+Byte DMA Burst 4 Read Testing...
+Byte DMA Burst 4 Read Time: 1248 ms
+Byte DMA Burst 4 Read Speed: 12.821 MB/s
+=======================================
+Byte DMA Burst 8 Write Testing...
+Byte DMA Burst 8 Write Time: 591 ms
+Byte DMA Burst 8 Write Speed: 27.073 MB/s
+Byte DMA Burst 8 Read Testing...
+Byte DMA Burst 8 Read Time: 1248 ms
+Byte DMA Burst 8 Read Speed: 12.821 MB/s
+=======================================
+HalfWord DMA Burst 1 Write Testing...
+HalfWord DMA Burst 1 Write Time: 332 ms
+HalfWord DMA Burst 1 Write Speed: 48.193 MB/s
+HalfWord DMA Burst 1 Read Testing...
+HalfWord DMA Burst 1 Read Time: 628 ms
+HalfWord DMA Burst 1 Read Speed: 25.478 MB/s
+=======================================
+HalfWord DMA Burst 4 Write Testing...
+HalfWord DMA Burst 4 Write Time: 332 ms
+HalfWord DMA Burst 4 Write Speed: 48.193 MB/s
+HalfWord DMA Burst 4 Read Testing...
+HalfWord DMA Burst 4 Read Time: 628 ms
+HalfWord DMA Burst 4 Read Speed: 25.478 MB/s
+=======================================
+HalfWord DMA Burst 8 Write Testing...
+HalfWord DMA Burst 8 Write Time: 332 ms
+HalfWord DMA Burst 8 Write Speed: 48.193 MB/s
+HalfWord DMA Burst 8 Read Testing...
+HalfWord DMA Burst 8 Read Time: 628 ms
+HalfWord DMA Burst 8 Read Speed: 25.478 MB/s
+=======================================
+Word DMA Burst 1 Write Testing...
+Word DMA Burst 1 Write Time: 273 ms
+Word DMA Burst 1 Write Speed: 58.608 MB/s
+Word DMA Burst 1 Read Testing...
+Word DMA Burst 1 Read Time: 570 ms
+Word DMA Burst 1 Read Speed: 28.070 MB/s
+=======================================
+Word DMA Burst 4 Write Testing...
+Word DMA Burst 4 Write Time: 273 ms
+Word DMA Burst 4 Write Speed: 58.608 MB/s
+Word DMA Burst 4 Read Testing...
+Word DMA Burst 4 Read Time: 570 ms
+Word DMA Burst 4 Read Speed: 28.070 MB/s
+=======================================
+Word DMA Burst 8 Write Testing...
+Word DMA Burst 8 Write Time: 273 ms
+Word DMA Burst 8 Write Speed: 58.608 MB/s
+Word DMA Burst 8 Read Testing...
+Word DMA Burst 8 Read Time: 569 ms
+Word DMA Burst 8 Read Speed: 28.120 MB/s
+Word DMA Burst 8 Write Testing...
+=======================================
+Word DMA Burst 8 Internal Write Testing...
+Word DMA Burst 8 Internal Write Time: 363 ms
+Word DMA Burst 8 Internal Write Speed: 22.039 MB/s
+Word DMA Burst 8 Internal Read Testing...
+Word DMA Burst 8 Internal Read Time: 362 ms
+Word DMA Burst 8 Internal Read Speed: 22.099 MB/s
+======== Performance Test End =========
+===========SDRAM Test End===============
